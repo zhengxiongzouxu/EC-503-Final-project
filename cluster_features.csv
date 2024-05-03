@@ -1,0 +1,33 @@
+Cluster ID,Features
+1,"['NoOfURLRedirect', 'NoOfSelfRedirect']"
+2,"['ObfuscationRatio', 'HasObfuscation']"
+3,"['URLLength', 'NoOfObfuscatedChar', 'NoOfLettersInURL', 'NoOfDegitsInURL', 'NoOfEqualsInURL', 'NoOfAmpersandInURL', 'NoOfOtherSpecialCharsInURL']"
+4,['NoOfQMarkInURL']
+5,['IsDomainIP']
+6,['Bank']
+7,['Pay']
+8,['NoOfiFrame']
+9,['HasPasswordField']
+10,"['NoOfSelfRef', 'NoOfExternalRef']"
+11,['LineOfCode']
+12,['NoOfImage']
+13,"['URLCharProb', 'DegitRatioInURL']"
+14,"['URLSimilarityIndex', 'HasDescription', 'HasSocialNet', 'HasCopyrightInfo']"
+15,"['CharContinuationRate', 'SpacialCharRatioInURL', 'DomainTitleMatchScore', 'URLTitleMatchScore']"
+16,"['HasSubmitButton', 'HasHiddenFields']"
+17,['IsHTTPS']
+18,['IsResponsive']
+19,['HasTitle']
+20,['HasFavicon']
+21,['Robots']
+22,['NoOfJS']
+23,['TLDLegitimateProb']
+24,['TLDLength']
+25,"['DomainLength', 'LetterRatioInURL']"
+26,['NoOfSubDomain']
+27,['HasExternalFormSubmit']
+28,['NoOfEmptyRef']
+29,['Crypto']
+30,['NoOfCSS']
+31,['LargestLineLength']
+32,['NoOfPopup']

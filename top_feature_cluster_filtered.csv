@@ -1,0 +1,12 @@
+Feature,Rank,Cluster
+URLSimilarityIndex,1,14
+LineOfCode,3,11
+NoOfExternalRef,4,10
+NoOfImage,6,12
+NoOfJS,8,22
+IsHTTPS,10,17
+DomainTitleMatchScore,11,15
+NoOfCSS,12,30
+HasSubmitButton,14,16
+NoOfOtherSpecialCharsInURL,15,3
+HasFavicon,17,20

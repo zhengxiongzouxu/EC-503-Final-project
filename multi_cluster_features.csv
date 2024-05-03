@@ -1,0 +1,10 @@
+Cluster#,Features
+1,"['NoOfURLRedirect', 'NoOfSelfRedirect']"
+2,"['ObfuscationRatio', 'HasObfuscation']"
+3,"['URLLength', 'NoOfObfuscatedChar', 'NoOfLettersInURL', 'NoOfDegitsInURL', 'NoOfEqualsInURL', 'NoOfAmpersandInURL', 'NoOfOtherSpecialCharsInURL']"
+10,"['NoOfSelfRef', 'NoOfExternalRef']"
+13,"['URLCharProb', 'DegitRatioInURL']"
+14,"['URLSimilarityIndex', 'HasDescription', 'HasSocialNet', 'HasCopyrightInfo']"
+15,"['CharContinuationRate', 'SpacialCharRatioInURL', 'DomainTitleMatchScore', 'URLTitleMatchScore']"
+16,"['HasSubmitButton', 'HasHiddenFields']"
+25,"['DomainLength', 'LetterRatioInURL']"

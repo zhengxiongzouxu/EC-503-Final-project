@@ -1,0 +1,14 @@
+Method,"Feature 
+Rank 1","Feature 
+Rank 2","Feature 
+Rank 3","Feature 
+Rank 4","Feature 
+Rank 5","Feature 
+Rank 6","Feature 
+Rank 7","Feature 
+Rank 8","Feature 
+Rank 9","Feature 
+Rank 10"
+RFE,URLSimilarityIndex,LineOfCode,NoOfExternalRef,NoOfSelfRef,NoOfImage,NoOfJS,HasSocialNet,NoOfCSS,NoOfOtherSpecialCharsInURL,URLLength
+RandomForest,URLSimilarityIndex,NoOfExternalRef,LineOfCode,NoOfSelfRef,NoOfImage,NoOfJS,HasSocialNet,HasCopyrightInfo,NoOfCSS,HasDescription
+ReliefF,URLSimilarityIndex,HasSocialNet,HasCopyrightInfo,HasDescription,IsHTTPS,DomainTitleMatchScore,URLTitleMatchScore,HasSubmitButton,SpacialCharRatioInURL,HasFavicon
